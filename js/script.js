@@ -2,7 +2,6 @@
 
  $(document).ready(function(){
       $('.slider').slider({full_width: true});
-    });
  
   $('.dropdown-button').dropdown({
       inDuration: 300,
@@ -15,8 +14,8 @@
     }
   );
 
-   $(document).ready(function(){
-      $('.carousel').carousel ();
-    });
+  $('.carousel').carousel ();
+
+});
         
         
